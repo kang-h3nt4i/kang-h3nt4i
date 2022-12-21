@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/wmkcq3t_cIEAAAAd/calm-and-relaxing-place-wallpaper-gifs.gif)
 <h1 align="center">Hi 👋, I'm Mat</h1>
 <h3 align="center">Im student in Computer Science 🎓. I'm a random people.I enjoy Code ,Gaming and watching Anime.</h3>
-<img align="right" alt="Hack" width="400" src="https://cdn.dribbble.com/users/2507445/screenshots/5827735/internet-safety-hacker.gif">
+<img align="right" alt="Hack" width="300" src="https://cdn.dribbble.com/users/2507445/screenshots/5827735/internet-safety-hacker.gif">
 
 
 
